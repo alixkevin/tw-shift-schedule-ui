@@ -4,8 +4,6 @@
 
 `npm i tw-shift-schedule`
 
-<script src='https://wfublog.github.io/test/welcome.js'></script>
-
 ## Usage
 
 ```javascript
